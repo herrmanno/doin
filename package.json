@@ -1,6 +1,6 @@
 {
   "name": "doin",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Utility tool for executing a shell command after a given time",
   "bin": "index.js",
   "preferGlobal": true,
