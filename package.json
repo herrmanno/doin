@@ -1,0 +1,16 @@
+{
+  "name": "doin",
+  "version": "1.0.0",
+  "description": "Utility tool for executing a shell command after a given time",
+  "bin": "index.js",
+  "preferGlobal": true,
+  "keywords": [
+    "timeout",
+    "later",
+    "do",
+    "shell",
+    "at"
+  ],
+  "author": "o.herrmann92@gmail.com",
+  "license": "ISC"
+}
